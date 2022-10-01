@@ -49,7 +49,6 @@ fuel + quantidade: abastece o carro com a quantidade fornecida
 drive + distancia: faz o carro percorrer a distancia fornecida
 show: exibe a quantidade de pessageiros, a quilometragem e o combustível no carro
 exit: encerra o programa\n"""
-print(manual)
 
 while True:  # Interação com o usuário
     entrada = input('Digite um comando: ')
