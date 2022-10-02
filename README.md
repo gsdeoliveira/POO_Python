@@ -1,2 +1,2 @@
 # POO_Python
- Exercicios POO python
+ Apenas minhas resoluções de exercícios sobre POO
